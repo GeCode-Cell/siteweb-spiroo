@@ -1,1 +1,1 @@
-![capture d'ecran de mon site web](./images/capture.png)
+![capture d'ecran de mon site web](./images/Capture.png)
